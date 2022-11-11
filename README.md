@@ -13,6 +13,7 @@ Mis pasatiempos son:
 
 Estudie en el colegio **Juan Pablo ll**.
 No tuve muchos logros en el colegio mas que llegar a 3er lugar en 2do de secundaria también hay algo de lo que me recuerdo y es la vez que gane mucho dinero con un juego de mesa que hice para **Santa Anita** de mi colegio.
+
 Las materias que estoy cursando este semestre son:
 
 **Introducción a la programación**
